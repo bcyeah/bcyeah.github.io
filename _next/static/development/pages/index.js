@@ -729,7 +729,7 @@ function Home() {
     }
   }, "Chenimal's space"), __jsx("link", {
     rel: "icon",
-    href: "/favicon.ico",
+    href: "/favicon.ico?",
     __self: this,
     __source: {
       fileName: _jsxFileName,
